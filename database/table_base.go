@@ -1,7 +1,7 @@
 package database
 
 import (
-	sgJwt "go-webpage-builder/salmon-go/jwt"
+	sgJwt "salmon-go/jwt"
 	"strconv"
 	"time"
 

@@ -1,8 +1,8 @@
 package sgchttp
 
 import (
-	sgUtility "go-webpage-builder/salmon-go/utility"
 	"net/http"
+	sgUtility "salmon-go/utility"
 
 	"github.com/gin-gonic/gin"
 )

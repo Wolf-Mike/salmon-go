@@ -2,7 +2,7 @@ package sgcjwt
 
 import (
 	"errors"
-	sgHttp "go-webpage-builder/salmon-go/http"
+	sgHttp "salmon-go/http"
 
 	"github.com/gin-gonic/gin"
 )
