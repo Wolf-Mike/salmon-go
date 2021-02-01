@@ -2,7 +2,7 @@ package sgchttp
 
 import (
 	"net/http"
-	sgUtility "salmon-go/utility"
+	sgUtility "github.com/Wolf-Jia/salmon-go/utility"
 
 	"github.com/gin-gonic/gin"
 )

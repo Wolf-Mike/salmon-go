@@ -1,9 +1,10 @@
 package database
 
 import (
-	sgJwt "salmon-go/jwt"
 	"strconv"
 	"time"
+
+	sgJwt "github.com/Wolf-Jia/salmon-go/jwt"
 
 	"github.com/gin-gonic/gin"
 )

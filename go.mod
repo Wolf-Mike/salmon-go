@@ -1,4 +1,4 @@
-module salmon-go
+module github.com/Wolf-Jia/salmon-go
 
 go 1.14
 

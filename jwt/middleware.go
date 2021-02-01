@@ -2,7 +2,8 @@ package sgcjwt
 
 import (
 	"errors"
-	sgHttp "salmon-go/http"
+
+	sgHttp "github.com/Wolf-Jia/salmon-go/http"
 
 	"github.com/gin-gonic/gin"
 )
